@@ -8,3 +8,5 @@ Activity 3 link to pull request: https://github.com/UVA-CS3240-S18/Lab2Fork-102/
 <br>Added better instructions and input validation so it doesn't crash as easily.
 
 Activity 4 link to issue: https://github.com/UVA-CS3240-S18/IveGotIssues/issues/139
+
+Activity 5 link to gitignore: https://github.com/str8ht/hello-world/blob/master/.gitignore
